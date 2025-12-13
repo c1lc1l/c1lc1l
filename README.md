@@ -50,8 +50,8 @@ Captain of **AWS Cloud Club – PCU Cavite**, leading hands-on cloud and AI init
 
 ## Activity
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1lc1l&layout=compact&theme=github_dark" height="150"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=c1lc1l&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=c1lc1l&layout=compact&theme=github_dark" height="160"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=c1lc1l&theme=github_dark" height="160"/>
 </p>
 
 ---
