@@ -1,6 +1,6 @@
 # 👋 Hallooooo! Kamusta? 안녕ㅇㅇㅇ~ 👋
   
-<p align="center">I'm Ben!<br>Part-time Solutions Architect, AI Engineer, Backend Developer, AWS Cloud Club Captain, Associate Editor-in-Chief<br>Full-time Spanish Latte Enjoyer, Broken CI/CD Airlines, Couch Brotato, & EldenSoulsBorne Enthusiast</p>
+<p align="center">I'm Ben!<br>Part-time AWS Practitioner, AI Engineer, Fullstack Developer, AWS Cloud Club Captain, Associate Editor-in-Chief<br>Full-time Spanish Latte Enjoyer, Broken CI/CD Airlines, Couch Brotato, & EldenSoulsBorne Enthusiast</p>
 
 <p align="center">
   <a href="https://www.facebook.com/CilCil01" target="_blank">
