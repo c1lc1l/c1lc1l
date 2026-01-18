@@ -19,12 +19,6 @@
 
 ---
 
-## Ben. Ben? Ben!
-
-<p align="left">✨ Architecting chaos since 2022<br>☁ Currently building serverless intelligent systems on **AWS**<br>🎯 Goals: To be an MLOps Engineer & 10x AWS<br>💤 Dozes off before the training batch wraps up<br>🛡 Any GrandChase enjoyers?</p>
-
----
-
 ## Core Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="amazonwebservices logo"  />
