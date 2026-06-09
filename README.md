@@ -1,6 +1,6 @@
 # 👋 Hallooooo! Kamusta? 안녕ㅇㅇㅇ~ 👋
   
-<p align="center">I'm Ben!<br>Part-time AWS Practitioner, AI Engineer, Fullstack Developer, AWS Cloud Club Captain, Associate Editor-in-Chief<br>Full-time Spanish Latte Enjoyer, Broken CI/CD Airlines, Couch Brotato, & EldenSoulsBorne Enthusiast</p>
+<p align="center">I'm Ben!<br>Part-time AWS Practitioner, AI Engineer, Fullstack Developer, Technology Director, Campus Journalist<br>Full-time Spanish Latte Enjoyer, Broken CI/CD Airlines, Couch Brotato, & EldenSoulsBorne Enthusiast</p>
 
 <p align="center">
   <a href="https://www.facebook.com/CilCil01" target="_blank">
@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws&theme=dark" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java&theme=light" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=terraform&theme=light" height="40" alt="terraform logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
